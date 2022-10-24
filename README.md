@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @b4b4s
-- 👀 I’m interested in Data Science, Machine Learning, Beautiful & Efficient Plots, Deployable Solutions
+- 👀 I’m interested in Data Science, MLOps, Machine Learning, Beautiful & Efficient Plots, Deployable Solutions
 - 🌱 I’m currently learning how to deploy efficient graphics pipelines for large datasets
 - 💞️ I’m looking to collaborate on anything to do with graphics/plots
 - 📫 How to reach me https://www.linkedin.com/in/elias-ortiz/
